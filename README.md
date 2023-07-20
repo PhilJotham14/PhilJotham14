@@ -9,7 +9,7 @@ Am a passionate Full Stack Developer and Software Engineer dedicated to Building
 * 🌍  I'm based in Kampala, Uganda
 * 🖥️  See my portfolio at [https://philjotham14.github.io/PORTFOLIO/](http://philjotham14.github.io/PORTFOLIO/)
 * ✉️  You can contact me at [p.jothamokiror@gmail.com](mailto:p.jothamokiror@gmail.com)
-* 🧠  I'm learning COMPUTER SCIENCE
+* 🧠  Pursuing a Degree in COMPUTER SCIENCE
 * 🤝  I'm open to collaborating on Frontend & Backend WEB-Applications
 * ⚡  FREE PAID SOFTWARE & OFFICE APPLICATION INSTALLATIONS
 
