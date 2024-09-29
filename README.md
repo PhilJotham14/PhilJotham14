@@ -7,7 +7,7 @@ FULLSTACK DEVELOPER / PYTHON DATA ANALYST / UI/UX / DEV-OPS & BLOCKCHAIN ENTHUSI
 Am a passionate Full Stack Developer and Software Engineer dedicated to Building Websites and WEB-Applications/Development Process working on both the Client-side and Server-side running build of complete "Stack" of technologies required for a project. This includes designing and implementing the User-Interface(Front-end), handling Server-side Programming and Databases (Back-end), and managing the application's logic and functionality.
 
 * 🌍  I'm based in Kampala, Uganda
-* 🖥️  See my portfolio at [https://philjotham14.github.io/PORTFOLIO/](http://philjotham14.github.io/PORTFOLIO/)
+* 🖥️  See my portfolio at [https://okirorphillipjotham.vercel.app/](http://philjotham14.github.io/PORTFOLIO/)
 * ✉️  You can contact me at [p.jothamokiror@gmail.com](mailto:p.jothamokiror@gmail.com)
 * 🧠  Pursuing a Degree in COMPUTER SCIENCE
 * 🤝  I'm open to collaborating on Frontend & Backend WEB-Applications
